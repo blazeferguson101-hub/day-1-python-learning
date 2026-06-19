@@ -1,0 +1,8 @@
+print("Welcome to Blaze's Calculator")
+num1 = float(input("Enter first number ")) 
+num2 = float(input("Enter second number: "))
+print("Add:", num1 + num2)
+print("Subtract:", num1 - num2)
+print("Multiply:", num1 * num2)
+print("Divide:", num1 / num2)
+print("Thank you for Using the Calculator.")
